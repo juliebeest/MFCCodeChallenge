@@ -1,0 +1,21 @@
+﻿Build started 9/26/2016 12:12:02 AM.
+     1>Project "c:\Users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\MFCAlienHVAC\MFCAlienHVAC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCAlienHVAC.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFCAlienHVAC.cpp MFCAlienHVACDlg.cpp
+         MFCAlienHVAC.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         MFCAlienHVACDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\Debug\MFCAlienHVAC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\Debug\MFCAlienHVAC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\Debug\MFCAlienHVAC.lib" /MACHINE:X86 Debug\MFCAlienHVAC.res
+         Debug\CalculateDialog.obj
+         Debug\MFCAlienHVAC.obj
+         Debug\MFCAlienHVACDlg.obj
+         Debug\stdafx.obj
+         Debug\WelcomeDialog.obj
+         MFCAlienHVAC.vcxproj -> c:\users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\Debug\MFCAlienHVAC.exe
+     1>Done Building Project "c:\Users\beest\documents\visual studio 2012\Projects\MFCAlienHVAC\MFCAlienHVAC\MFCAlienHVAC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.10
